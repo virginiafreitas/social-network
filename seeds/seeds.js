@@ -17,11 +17,11 @@ const users = [
 
 const thoughts = [
     {
-        thoughText: 'very good',
+        thoughtText: 'very good',
         username: 'farley'
     },
     {
-        thoughText: 'very cool',
+        thoughtText: 'very cool',
         username: 'virginiafreitas'
     },
 ]
